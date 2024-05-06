@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.fLogin.resources
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.AdInfor.resources
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.TInfor.resources
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.AddTeacher.resources
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.AddStudent.resources
+C:\Users\admin\Desktop\TỰ HỌC\CourseWork\obj\Debug\CourseWork.SInfor.resources
